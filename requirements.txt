@@ -3,3 +3,6 @@ pytest~=9.0.1
 
 # Для качества кода
 flake8~=6.0.0
+
+# Версия Selenium
+selenium==4.38.0
