@@ -2,7 +2,13 @@
 pytest~=9.0.1
 
 # Для качества кода
-flake8~=6.0.0
+flake8~=7.3.0
 
 # Версия Selenium
 selenium==4.38.0
+
+sqlalchemy==2.0.45
+
+psycopg2-binary==2.9.11
+
+python-dotenv==1.2.1
